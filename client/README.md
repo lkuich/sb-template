@@ -9,7 +9,7 @@ Create a new `client/.env.development`, paste the following, this will get you r
 STORYBLOK_REGION=eu
 
 # Preview token:
-STORYBLOK_TOKEN=hBAE5oaZPdaIQyb1XKE58wtt
+STORYBLOK_TOKEN=...
 STORYBLOK_VERSION=draft
 ```
 
