@@ -1,0 +1,35 @@
+{
+  "name": "email_input",
+  "display_name": null,
+  "description": "",
+  "created_at": "2025-08-06T18:46:58.025Z",
+  "updated_at": "2025-08-06T18:50:13.318Z",
+  "id": 77072048237622,
+  "schema": {
+    "label": {
+      "type": "text",
+      "pos": 0,
+      "id": "GbFII8PXSwKAe-XGopKPvw"
+    },
+    "suffix": {
+      "type": "text",
+      "pos": 1,
+      "id": "NoPqA08jTT25qko46q2mUg"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "email_input",
+  "component_group_uuid": "a2217d8a-d37f-48fa-bf14-26db1f2e388a",
+  "color": null,
+  "icon": "block-@",
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

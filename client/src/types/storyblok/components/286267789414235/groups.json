@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Components",
+    "id": 77041897865416,
+    "uuid": "a2217d8a-d37f-48fa-bf14-26db1f2e388a",
+    "parent_id": null,
+    "parent_uuid": null
+  },
+  {
+    "name": "Hero",
+    "id": 76703338938258,
+    "uuid": "3f3a5553-d5fc-49fe-9e54-e8b1f2396e57",
+    "parent_id": null,
+    "parent_uuid": null
+  },
+  {
+    "name": "Testimonial",
+    "id": 76703305428881,
+    "uuid": "7740e4a7-d595-4ca2-8392-675eeb748ae7",
+    "parent_id": null,
+    "parent_uuid": null
+  }
+]

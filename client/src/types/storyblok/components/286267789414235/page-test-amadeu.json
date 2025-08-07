@@ -1,0 +1,52 @@
+{
+  "name": "page-test-amadeu",
+  "display_name": null,
+  "description": "",
+  "created_at": "2025-08-05T20:13:39.634Z",
+  "updated_at": "2025-08-05T20:32:05.560Z",
+  "id": 76739459628291,
+  "schema": {
+    "teste1": {
+      "type": "text",
+      "pos": 0,
+      "required": true,
+      "translatable": true,
+      "id": "PvB9gFgxRk-BFPjopBTPlQ"
+    },
+    "teste2": {
+      "type": "table",
+      "pos": 1,
+      "id": "AzyORCiOTUKb9ATv2KIVSQ"
+    },
+    "teste3": {
+      "type": "options",
+      "pos": 2,
+      "is_reference_type": true,
+      "source": "internal_stories",
+      "entry_appearance": "card",
+      "allow_advanced_search": true,
+      "id": "U6TDsVi_R6qUwDssV2RfGw",
+      "folder_slug": ""
+    },
+    "custom_block": {
+      "type": "bloks",
+      "pos": 3,
+      "id": "6DtHMGDFQSyORBieoQxuHg"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": true,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "page-test-amadeu",
+  "component_group_uuid": "7740e4a7-d595-4ca2-8392-675eeb748ae7",
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

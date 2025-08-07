@@ -1,0 +1,8 @@
+services:
+  client:
+    working_dir: /app
+    build:
+      context: client
+      target: dev
+    ports:
+      - 8080:8080

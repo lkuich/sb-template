@@ -1,0 +1,35 @@
+{
+  "name": "button_amadeu",
+  "display_name": null,
+  "description": "button block with variants",
+  "created_at": "2025-08-05T19:42:47.379Z",
+  "updated_at": "2025-08-05T20:29:41.205Z",
+  "id": 76731872791704,
+  "schema": {
+    "label": {
+      "type": "text",
+      "pos": 0,
+      "id": "DqnWYL2ZQ7KHh49146sycA"
+    },
+    "website": {
+      "type": "multilink",
+      "pos": 1,
+      "id": "09qQ3AGYQwGsGkYGb6W2CQ"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "button_amadeu",
+  "component_group_uuid": "7740e4a7-d595-4ca2-8392-675eeb748ae7",
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

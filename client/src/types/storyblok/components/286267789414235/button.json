@@ -1,0 +1,35 @@
+{
+  "name": "button",
+  "display_name": null,
+  "description": "this is a simple button node",
+  "created_at": "2025-08-06T04:54:37.899Z",
+  "updated_at": "2025-08-06T04:55:12.977Z",
+  "id": 76867493482096,
+  "schema": {
+    "link": {
+      "type": "multilink",
+      "pos": 0,
+      "id": "J1WfO-ZORt-sRndsD36TUg"
+    },
+    "text": {
+      "type": "text",
+      "pos": 1,
+      "id": "3V31iNGEREiSl0NKSPUNkQ"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "button",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

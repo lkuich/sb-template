@@ -1,0 +1,40 @@
+{
+  "name": "hero",
+  "display_name": "Hero",
+  "description": "Hero section of the quiz",
+  "created_at": "2025-08-06T04:19:01.871Z",
+  "updated_at": "2025-08-06T04:29:58.295Z",
+  "id": 76858744311365,
+  "schema": {
+    "hero_image": {
+      "type": "asset",
+      "pos": 0,
+      "id": "IhXzTg1pT06pOL9ZoGqC0g"
+    },
+    "hero_title": {
+      "type": "text",
+      "pos": 1,
+      "id": "jMYbMclPSEik3dq9qPQ_Ug"
+    },
+    "hero_subtitle": {
+      "type": "text",
+      "pos": 2,
+      "id": "9B4Th2rHTG20sGQNKJRWmA"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Hero",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

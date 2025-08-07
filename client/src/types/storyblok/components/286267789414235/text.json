@@ -1,0 +1,30 @@
+{
+  "name": "text",
+  "display_name": null,
+  "description": "this is a simple text node",
+  "created_at": "2025-08-06T04:51:45.167Z",
+  "updated_at": "2025-08-06T04:53:07.706Z",
+  "id": 76866785971823,
+  "schema": {
+    "content": {
+      "type": "text",
+      "pos": 0,
+      "id": "9nYCfgNSS_uSbpNtshBe8A"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "text",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

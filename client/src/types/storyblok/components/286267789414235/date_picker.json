@@ -1,0 +1,45 @@
+{
+  "name": "date_picker",
+  "display_name": null,
+  "description": "Date Input",
+  "created_at": "2025-08-06T19:33:06.747Z",
+  "updated_at": "2025-08-06T19:36:29.778Z",
+  "id": 77083388927201,
+  "schema": {
+    "label": {
+      "type": "text",
+      "pos": 0,
+      "id": "RPPhRaDrRFOizueBKTlLwA"
+    },
+    "month_placeholder": {
+      "type": "text",
+      "pos": 1,
+      "id": "nTPcpGY0Th6xlbJHpip85Q"
+    },
+    "day_placeholder": {
+      "type": "text",
+      "pos": 2,
+      "id": "6yH7kkO-SAeQaLWJjyl9GA"
+    },
+    "year_placeholder": {
+      "type": "text",
+      "pos": 3,
+      "id": "zRlDljYRStqhROYfHrLdHg"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "date_picker",
+  "component_group_uuid": "a2217d8a-d37f-48fa-bf14-26db1f2e388a",
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}
